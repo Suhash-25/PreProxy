@@ -1,0 +1,5 @@
+playwright
+chromium
+fastapi
+pydantic
+uvicorn
